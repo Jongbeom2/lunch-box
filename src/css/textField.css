@@ -1,0 +1,39 @@
+/* White Text Field*/
+.lunchBox-textField-white-large{
+    font-weight: bold;
+    color: white;
+    font-size: 4rem;
+}
+.lunchBox-textField-white-title{
+    font-size: 1.5rem;
+    color: white;
+    font-weight: bold;
+}
+.lunchBox-textField-white-content{
+    font-size: 1.25rem;
+    color: white;
+    font-weight: normal;
+}
+/* Dark White Text Field */
+.lunchBox-textField-darWhtie-content{
+    font-size: 1.25rem;
+    color: #cccdce;
+    font-weight: normal;
+    font-family: 'Times';
+}
+/* Black Text Field*/
+.lunchBox-textField-black-title{
+    font-size: 1.5rem;
+    color: #494949;
+    font-weight: normal;
+}
+.lunchBox-textField-black-content{
+    font-size: 1.25rem;
+    color: #494949;
+    font-weight: normal;
+}
+.lunchBox-textField-black-content-small{
+    font-size: 1rem;
+    color: #494949;
+    font-weight: normal;
+}

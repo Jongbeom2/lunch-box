@@ -1,0 +1,105 @@
+/* Rectangular Line Button */
+.lunchBox-btn-rec-line{
+    background: rgba(255, 255, 255, 1);
+    font-family: 'Noto Sans KR';
+    border: 1px solid black;
+    font-size: 1rem;
+    font-weight: normal;
+    border-radius: 2px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    outline: none;
+    color: #494949;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    box-sizing: border-box;
+}
+.lunchBox-btn-rec-line:hover{
+    background-color: rgba(230, 230, 230, 1);
+}
+.lunchBox-btn-rec-line:active{
+    background-color: rgba(180, 180, 180, 1);
+}
+/* Rectangular Solid Button */
+.lunchBox-btn-rec-solid{
+    cursor: pointer;
+    background: rgb(50, 50, 50,1);
+    font-family: 'Noto Sans KR';
+    border: none;
+    font-size: 1rem;
+    font-weight: normal;
+    border-radius: 2px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    outline: none;
+    color:white;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+.lunchBox-btn-rec-solid:hover{
+    background-color: rgba(80, 80, 80, 1);
+}
+.lunchBox-btn-rec-solid:active{
+    background-color: rgba(50, 50, 50, 1);
+}
+/* Round Button */
+.lunchBox-btn-round{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.87);
+    width: auto;
+    height: 3rem;
+    padding: 1rem;
+    font-size: 1rem;
+    box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12);
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-weight: normal;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 1);
+    border: none;
+    outline: none;
+}
+.lunchBox-btn-round:hover{
+    background-color: rgba(230, 230, 230, 1);
+}
+.lunchBox-btn-round:active{
+    background-color: rgba(180, 180, 180, 1);
+}
+/* Tab Button */
+.lunchBox-btn-tab{
+    background: #181a1e;
+    height:3.5rem;
+    line-height: 3.5rem;
+    width: 10rem;
+    font-family: 'Noto Sans KR';
+    border: none;
+    font-size: 1rem;
+    font-weight: normal;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    outline: none;
+    color:rgba(255, 255, 255, 0.7);
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+.lunchBox-btn-tab:hover{
+    background-color: #333333;
+}
+.lunchBox-btn-tab-clicked{
+    background: #181a1e;
+    height:3.5rem;
+    line-height: 3.5rem;
+    width: 10rem;
+    font-family: 'Noto Sans KR';
+    border: none;
+    font-size: 1rem;
+    font-weight: normal;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    outline: none;
+    color:white;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+.lunchBox-btn-tab-clicked:hover{
+    background-color: #333333;
+}

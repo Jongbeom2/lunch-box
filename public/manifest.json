@@ -1,0 +1,8 @@
+{
+  "short_name": "Lunch Box",
+  "name": "Lunch Box",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
