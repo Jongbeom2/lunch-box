@@ -38,4 +38,4 @@ Your app is ready to be deployed!
 ### `firebase deploy`
 
 App is deployed to firebase server.
-Url of the deployed app is [https://lunchbox-97110.web.app](https://lunchbox-97110.web.app)
+Url of the deployed app is [https://lunchbox-97110.web.app](https://lunchbox-97110.web.app).
