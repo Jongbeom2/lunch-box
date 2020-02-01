@@ -13,7 +13,7 @@ LOGIN - 샐랩의 로그인 화면으로 실질적인 기능은 구현하지 않
 
 ### 개발 블로그 링크
 
-https://jongbeom-dev.tistory.com/category/%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Lunch%20Box
+https://jongbeom-dev.tistory.com/2?category=835620
 
 ## Available Scripts
 
