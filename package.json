@@ -1,7 +1,6 @@
 {
   "name": "lunchbox",
   "version": "0.1.0",
-  "main": "main.js",
   "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^4.3.1",
